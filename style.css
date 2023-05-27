@@ -219,7 +219,7 @@ img {
   font-weight: 700;
   font-size: 35px;  
   padding: 0;
-  margin-top: 16px;
+  margin-top: 0px;
   height: 34px;
   width: 180px;
   -webkit-transition: all 0.5s;
@@ -439,7 +439,7 @@ img {
   display: inline;
   float: left;
   width: 100%;
-  padding: 100px 0;
+  padding: 0px 0;
 }
 
 .mu-about-us-area {
@@ -592,7 +592,7 @@ img {
   display: inline;
   float: left;
   width: 100%;
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 .mu-restaurant-menu-area {
